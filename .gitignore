@@ -4,8 +4,9 @@ desktop.ini
 .classpath
 .settings/
 .project
-
+.gradle
 
 *.odp#
-*.gradle
 /.project
+/target
+/update
